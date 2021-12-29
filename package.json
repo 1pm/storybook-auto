@@ -1,0 +1,9 @@
+{
+  "name": "storybook-automation",
+  "version": "0.0.1",
+  "description": "Automatically create stories for all your components and keep them up-to-date without any effort",
+  "main": "index.js",
+  "peerDependencies": {
+    "@storybook/addon-knoobs": "^5.1"
+  }
+}
